@@ -1,10 +1,10 @@
-#Just Another XT-IDE
+# Just Another XT-IDE
 
 A collection of my XT-IDE PCB layout experiments and hardware variations
 created for the retrocomputing community.
 
 These boards are based on the original XT-IDE concepts and schematics from
-GlitchWorks, with PCB layout inspiration drawn from Monotech designs.
+GlitchWorks, with some PCB layout inspiration drawn from Monotech designs.
 
 This repository provides:
 - Gerber files
