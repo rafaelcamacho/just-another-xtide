@@ -12,3 +12,5 @@ This repository provides:
 - Build notes and documentation
 
 PCB source/layout files are intentionally not included.
+
+Use at your risk.
