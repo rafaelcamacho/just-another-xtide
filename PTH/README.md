@@ -1,4 +1,4 @@
-# PTH XT-IDE Boards
+# PTH Just Another XT-IDE Boards
 
 This directory contains through-hole (PTH) versions of the Just Another XT-IDE board designs.
 
